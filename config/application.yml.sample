@@ -1,0 +1,10 @@
+
+DEFAULT_USERNAME: "xxxxxrtc"
+DEFAULT_LASTNAME: "xxxxxinez"
+DEFAULT_PHONE: "xxxxx5133"
+DEFAULT_ADMIN_EMAIL: "xxxxxtc@gmail.com"
+DEFAULT_PASSWORD: "m4xxxxxxxxxm1n"
+
+development:
+  DATABASE_USER: "postgres"
+  DATABASE_PASSWORD: "sXXXXxxx41"
